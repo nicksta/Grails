@@ -4,6 +4,7 @@ class Photo {
 
     String name
     String type
+    String test
     byte[] imagePhoto
     Date lastUpdated
     Date dateCreated
