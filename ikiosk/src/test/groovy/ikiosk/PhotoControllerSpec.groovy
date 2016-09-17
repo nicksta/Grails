@@ -2,6 +2,7 @@ package iKiosk
 
 import grails.test.mixin.*
 import spock.lang.*
+import ikiosk.*
 
 @TestFor(PhotoController)
 @Mock(Photo)
