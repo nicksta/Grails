@@ -1,3 +1,4 @@
+import ikiosk.Photo
 
 @Transactional(readOnly = false)
 
